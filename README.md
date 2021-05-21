@@ -7,4 +7,4 @@ View the google sheet for this code here: https://docs.google.com/spreadsheets/d
 
 Create a credentials.json and client_id.json from GCP and make sure they are in the same virtual environment as scraper.py.
 
-Make sure the pause for google search is more than 2s, any less than that and you risk getting an http 429 too many requests error or getting your IP address blocked from google (very difficult to undo). 
+Make sure the pause for google search is more than 2s, any less than that and you risk getting an http 429 too many requests error or getting your IP address blocked from google. 
